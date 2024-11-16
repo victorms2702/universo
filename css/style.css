@@ -1,0 +1,29 @@
+body{
+    background-color: rebeccapurple;
+    font-family: 'Trebuchet MS';
+    font-size: 20px;
+}
+.p1{
+    color: whitesmoke;
+}
+.p2{
+    color: white;
+}
+.p3{
+    color: white;
+}
+.h22{
+    color: whitesmoke;
+}
+h1{
+    color: blanchedalmond;
+}
+h2{
+    color: white;
+}
+h3{
+    color: white;
+}
+marquee{
+    color: bisque;
+}
